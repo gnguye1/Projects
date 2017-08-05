@@ -1,0 +1,11 @@
+c:\users\cucduong\documents\visual studio 2013\Projects\VBTraining\ComObject\bin\Debug\ComObject.exe.config
+c:\users\cucduong\documents\visual studio 2013\Projects\VBTraining\ComObject\bin\Debug\ComObject.exe
+c:\users\cucduong\documents\visual studio 2013\Projects\VBTraining\ComObject\bin\Debug\ComObject.pdb
+c:\users\cucduong\documents\visual studio 2013\Projects\VBTraining\ComObject\bin\Debug\ComObject.xml
+c:\users\cucduong\documents\visual studio 2013\Projects\VBTraining\ComObject\obj\Debug\ComObject.vbproj.ResolveComReference.cache
+c:\users\cucduong\documents\visual studio 2013\Projects\VBTraining\ComObject\obj\Debug\ComObject.Form1.resources
+c:\users\cucduong\documents\visual studio 2013\Projects\VBTraining\ComObject\obj\Debug\ComObject.Resources.resources
+c:\users\cucduong\documents\visual studio 2013\Projects\VBTraining\ComObject\obj\Debug\ComObject.vbproj.GenerateResource.Cache
+c:\users\cucduong\documents\visual studio 2013\Projects\VBTraining\ComObject\obj\Debug\ComObject.exe
+c:\users\cucduong\documents\visual studio 2013\Projects\VBTraining\ComObject\obj\Debug\ComObject.xml
+c:\users\cucduong\documents\visual studio 2013\Projects\VBTraining\ComObject\obj\Debug\ComObject.pdb

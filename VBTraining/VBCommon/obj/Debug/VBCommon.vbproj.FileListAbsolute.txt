@@ -1,0 +1,8 @@
+c:\users\cucduong\documents\visual studio 2013\Projects\VBTraining\VBCommon\bin\Debug\VBCommon.dll
+c:\users\cucduong\documents\visual studio 2013\Projects\VBTraining\VBCommon\bin\Debug\VBCommon.pdb
+c:\users\cucduong\documents\visual studio 2013\Projects\VBTraining\VBCommon\bin\Debug\VBCommon.xml
+c:\users\cucduong\documents\visual studio 2013\Projects\VBTraining\VBCommon\obj\Debug\VBCommon.Resources.resources
+c:\users\cucduong\documents\visual studio 2013\Projects\VBTraining\VBCommon\obj\Debug\VBCommon.vbproj.GenerateResource.Cache
+c:\users\cucduong\documents\visual studio 2013\Projects\VBTraining\VBCommon\obj\Debug\VBCommon.dll
+c:\users\cucduong\documents\visual studio 2013\Projects\VBTraining\VBCommon\obj\Debug\VBCommon.xml
+c:\users\cucduong\documents\visual studio 2013\Projects\VBTraining\VBCommon\obj\Debug\VBCommon.pdb
